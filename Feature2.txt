@@ -1,4 +1,6 @@
 This commit is from "newFeature".
 Change number 1...
 
+adding commit
+
 Deleting everything...
