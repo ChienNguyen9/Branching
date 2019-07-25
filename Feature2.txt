@@ -4,7 +4,7 @@ Change number 1...
 merge this commit
 adding commit
 
-
+THIS IS A CRAZY TEXT!!!
 
 HELLO WORLD!
 
